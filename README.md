@@ -15,5 +15,7 @@ https://65417e49387de51fb8a9cf0d--shetechhub.netlify.app/
 # Installation
   
 1- git clone  https://github.com/biancam5/hanko-hackaton.git
+<br/>
 2- npm install
+<br/>
 3- npm start 
